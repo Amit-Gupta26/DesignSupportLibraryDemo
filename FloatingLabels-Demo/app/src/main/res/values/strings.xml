@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FloatingLabelsDemo</string>
+    <string name="hint_text_name">Your Name</string>
+    <string name="hint_text_password">Your Password</string>
+    <string name="text_send_button">Login</string>
+    <string name="error_text_name">invalid name</string>
+    <string name="error_text_password">invalid password</string>
+</resources>
