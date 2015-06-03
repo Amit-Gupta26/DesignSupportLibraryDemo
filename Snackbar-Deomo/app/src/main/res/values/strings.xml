@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SnackbarDeomo</string>
+
+    <string name="show_snackbar_singleline">Show SingleLine SnackBar</string>
+    <string name="show_snackbar_multiline">Show Multi-Line SnackBar</string>
+
+    <string name="snackbar_text_singleline">Hello</string>
+    <string name="snackbar_text_multiline">Snackbars provide lightweight feedback about an operation by showing a brief message at the bottom of the screen. Snackbars can contain an action.</string>
+    <string name="snackbar_action">Action</string>
+</resources>
